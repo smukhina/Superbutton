@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Superbutton</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_button_delete" />
+    <string name="dialog" />
+    <string name="ok">OK</string>
+</resources>
